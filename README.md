@@ -8,6 +8,6 @@ To setup the MLP-package please run the following:
 
 2.Install other python dependencies;
 
-3.open this directory and run ./start.sh, which downloads the data and runs the notebook via iPython.
+3.Open this directory and run ./start.sh, which downloads the data and runs the notebook via iPython
 
-4. Check the notebook for more detailed instructions on activation functions used.
+4.Check the notebook for more detailed instructions on activation functions used.
